@@ -1,0 +1,5 @@
+C:\AndroidSDKProyectos\PFCTIT\app\src\main\java\com\android\app\proyecto\pfctit\ComparisonViewModelFactory.kt
+C:\AndroidSDKProyectos\PFCTIT\app\src\main\java\com\android\app\proyecto\pfctit\ComparisonViewModelTest.kt
+C:\AndroidSDKProyectos\PFCTIT\app\src\main\java\com\android\app\proyecto\pfctit\ComparisonViewModel.kt
+C:\AndroidSDKProyectos\PFCTIT\app\src\main\java\com\android\app\proyecto\pfctit\MainActivity.kt
+C:\AndroidSDKProyectos\PFCTIT\app\src\main\java\com\android\app\proyecto\pfctit\ComparisonModel.kt
